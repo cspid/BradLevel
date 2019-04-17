@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 5318875de74edbf4bb858d420ea22cc1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 2nd Floor
+    100002: 2nd Floor Door.001
+    100004: 2nd Floor Door.002
+    100006: 2nd Floor Door.003
+    100008: 2nd Floor Roof.001
+    100010: 2nd Floor Window.001
+    100012: 3rd Floor
+    100014: 3rd Floor Door.001
+    100016: 3rd Floor Door.002
+    100018: 3rd Floor Door.003
+    100020: 3rd Floor Roof
+    100022: 3rd Floor Window.001
+    100024: 3rd Floor Window.002
+    100026: 3rd Floor Window.003
+    100028: Ammo Depot.001
+    100030: Balcony
+    100032: Catwalk
+    100034: Catwalk.001
+    100036: fence
+    100038: Fire Escape
+    100040: Lamp
+    100042: Loading Bay
+    100044: Loading Bay Elevator
+    100046: Loading Bay Roof
+    100048: Pipe
+    100050: PLANK
+    100052: PLANK.001
+    100054: Player size Reference
+    100056: Shelves
+    100058: Shelves.001
+    100060: Shelves.002
+    100062: terrain
+    100064: Truck
+    100066: Truck.001
+    100068: Truck.002
+    100070: Truck.003
+    100072: Vantage Point
+    100074: Vat 1
+    100076: Vat.000
+    100078: Vat.001
+    100080: Vat.002
+    100082: Vat.003
+    100084: //RootNode
+    100086: Water
+    100088: circle water
+    100090: Circle.001
+    400000: 2nd Floor
+    400002: 2nd Floor Door.001
+    400004: 2nd Floor Door.002
+    400006: 2nd Floor Door.003
+    400008: 2nd Floor Roof.001
+    400010: 2nd Floor Window.001
+    400012: 3rd Floor
+    400014: 3rd Floor Door.001
+    400016: 3rd Floor Door.002
+    400018: 3rd Floor Door.003
+    400020: 3rd Floor Roof
+    400022: 3rd Floor Window.001
+    400024: 3rd Floor Window.002
+    400026: 3rd Floor Window.003
+    400028: Ammo Depot.001
+    400030: Balcony
+    400032: Catwalk
+    400034: Catwalk.001
+    400036: fence
+    400038: Fire Escape
+    400040: Lamp
+    400042: Loading Bay
+    400044: Loading Bay Elevator
+    400046: Loading Bay Roof
+    400048: Pipe
+    400050: PLANK
+    400052: PLANK.001
+    400054: Player size Reference
+    400056: Shelves
+    400058: Shelves.001
+    400060: Shelves.002
+    400062: terrain
+    400064: Truck
+    400066: Truck.001
+    400068: Truck.002
+    400070: Truck.003
+    400072: Vantage Point
+    400074: Vat 1
+    400076: Vat.000
+    400078: Vat.001
+    400080: Vat.002
+    400082: Vat.003
+    400084: //RootNode
+    400086: Water
+    400088: circle water
+    400090: Circle.001
+    2100000: Grey
+    2100002: No Name
+    2100004: Material.003
+    2300000: 2nd Floor
+    2300002: 2nd Floor Door.001
+    2300004: 2nd Floor Door.002
+    2300006: 2nd Floor Door.003
+    2300008: 2nd Floor Roof.001
+    2300010: 2nd Floor Window.001
+    2300012: 3rd Floor
+    2300014: 3rd Floor Door.001
+    2300016: 3rd Floor Door.002
+    2300018: 3rd Floor Door.003
+    2300020: 3rd Floor Roof
+    2300022: 3rd Floor Window.001
+    2300024: 3rd Floor Window.002
+    2300026: 3rd Floor Window.003
+    2300028: Ammo Depot.001
+    2300030: Balcony
+    2300032: Catwalk
+    2300034: Catwalk.001
+    2300036: fence
+    2300038: Fire Escape
+    2300040: Loading Bay
+    2300042: Loading Bay Elevator
+    2300044: Loading Bay Roof
+    2300046: Pipe
+    2300048: PLANK
+    2300050: PLANK.001
+    2300052: Player size Reference
+    2300054: Shelves
+    2300056: Shelves.001
+    2300058: Shelves.002
+    2300060: terrain
+    2300062: Truck
+    2300064: Truck.001
+    2300066: Truck.002
+    2300068: Truck.003
+    2300070: Vantage Point
+    2300072: Vat 1
+    2300074: Vat.000
+    2300076: Vat.001
+    2300078: Vat.002
+    2300080: Vat.003
+    2300082: Water
+    2300084: circle water
+    2300086: Circle.001
+    3300000: 2nd Floor
+    3300002: 2nd Floor Door.001
+    3300004: 2nd Floor Door.002
+    3300006: 2nd Floor Door.003
+    3300008: 2nd Floor Roof.001
+    3300010: 2nd Floor Window.001
+    3300012: 3rd Floor
+    3300014: 3rd Floor Door.001
+    3300016: 3rd Floor Door.002
+    3300018: 3rd Floor Door.003
+    3300020: 3rd Floor Roof
+    3300022: 3rd Floor Window.001
+    3300024: 3rd Floor Window.002
+    3300026: 3rd Floor Window.003
+    3300028: Ammo Depot.001
+    3300030: Balcony
+    3300032: Catwalk
+    3300034: Catwalk.001
+    3300036: fence
+    3300038: Fire Escape
+    3300040: Loading Bay
+    3300042: Loading Bay Elevator
+    3300044: Loading Bay Roof
+    3300046: Pipe
+    3300048: PLANK
+    3300050: PLANK.001
+    3300052: Player size Reference
+    3300054: Shelves
+    3300056: Shelves.001
+    3300058: Shelves.002
+    3300060: terrain
+    3300062: Truck
+    3300064: Truck.001
+    3300066: Truck.002
+    3300068: Truck.003
+    3300070: Vantage Point
+    3300072: Vat 1
+    3300074: Vat.000
+    3300076: Vat.001
+    3300078: Vat.002
+    3300080: Vat.003
+    3300082: Water
+    3300084: circle water
+    3300086: Circle.001
+    4300000: 2nd Floor
+    4300002: 2nd Floor Door.001
+    4300004: 2nd Floor Door.002
+    4300006: 2nd Floor Door.003
+    4300008: 2nd Floor Roof.001
+    4300010: 2nd Floor Window.001
+    4300012: 3rd Floor
+    4300014: 3rd Floor Door.001
+    4300016: 3rd Floor Door.002
+    4300018: 3rd Floor Door.003
+    4300020: 3rd Floor Window.001
+    4300022: 3rd Floor Window.002
+    4300024: 3rd Floor Window.003
+    4300026: 3rd Floor Roof
+    4300028: Fire Escape
+    4300030: Loading Bay
+    4300032: Loading Bay Elevator
+    4300034: Loading Bay Roof
+    4300036: Catwalk.001
+    4300038: Catwalk
+    4300040: Player size Reference
+    4300042: Truck
+    4300044: Shelves
+    4300046: Shelves.002
+    4300048: Shelves.001
+    4300050: Balcony
+    4300052: Vat 1
+    4300054: PLANK
+    4300056: Vat.001
+    4300058: PLANK.001
+    4300060: fence
+    4300062: Truck.001
+    4300064: Truck.002
+    4300066: Vat.002
+    4300068: Vat.003
+    4300070: Vat.000
+    4300072: terrain
+    4300074: Pipe
+    4300076: Truck.003
+    4300078: Vantage Point
+    4300080: Ammo Depot.001
+    4300082: Water
+    4300084: Circle.001
+    4300086: circle water
+    10800000: Lamp
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
